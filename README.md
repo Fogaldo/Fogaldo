@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Fogaldo
+- 👀 I’m interested in Web develop
+- 🌱 I’m currently learning JS
+- 📫 How to reach me: fogaldo36@gmail.com
