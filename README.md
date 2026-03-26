@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Anton Tkachonak (Fogaldo)
 - 👀 I’m interested in Web develop
 - 🌱 I’m currently learning JS, React and backend
-- 📫 How to reach me: fogaldo36@gmail.com
--                      www.linkedin.com/in/anton-tkachonak-093512242
+- 📫 How to reach me:
+- email: [fogaldo36@gmail.com (fogaldo36@gmail.com)]
+- www.linkedin.com/in/anton-tkachonak-093512242
